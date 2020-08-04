@@ -4,5 +4,5 @@ class Cat
     puts "meow!"
   end 
   
-  
+  attr_accessor :name
 end 
